@@ -11,7 +11,7 @@ The Application uses languages and the knowledge of how the Ghanian culture of h
 ## Known Bugs
 Some commands are unresponsive.
 ## Technologies Used
-
+* https://kwamemilanya.github.io/kwame-milanya-akan-names/
 ## Support and contact details
 contact kwame@gmail.com
 ### MIT License
