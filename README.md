@@ -4,7 +4,6 @@
 ## Description
 The Application uses languages and the knowledge of how the Ghanian culture of how the people name their children on the day names known ass Akan names. It is also important to note that the names vary depending on the gender of the child.
 ## Live URL
-
 ## Setup/Installation Requirements
 * Open Terminal
 * Perform git clone https://github.com/kwamemilanya/kwame-milanya-akan-names.git
