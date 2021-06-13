@@ -12,7 +12,6 @@
 ## Known Bugs
 Some commands are unresponsive.
 ## Technologies Used
-
 ## Support and contact details
 contact kwame@gmail.com
 ### MIT License
