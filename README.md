@@ -2,7 +2,7 @@
 #### 
 #### By **Kwame Milanya**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The Application uses languages and the knowledge of how the Ghanian culture of how the people name their children on the day names known ass Akan names. It is also important to note that the names vary depending on the gender of the child.
 ## Live URL
 
 ## Setup/Installation Requirements
